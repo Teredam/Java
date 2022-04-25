@@ -1,0 +1,25 @@
+Línea de Comandos para proyecto Java:
+
+//Ubicación de archivo
+
+C:\Users\formacio>
+
+C:\Users\formacio>cd IdeaProjects\JavaUtils\src\Nivel1\S0105Ex1
+
+//Compilación
+
+C:\Users\formacio\IdeaProjects\JavaUtils\src\Nivel1\S0105Ex1>javac Directorio.java  
+
+//Nos ubicamos en la carpeta src
+
+C:\Users\formacio\IdeaProjects\JavaUtils\src\Nivel1\S0105Ex1>cd..
+
+C:\Users\formacio\IdeaProjects\JavaUtils\src\Nivel1>cd..
+
+//Run
+
+C:\Users\formacio\IdeaProjects\JavaUtils\src>java Nivel1.S0105Ex1.Directorio
+
+
+
+

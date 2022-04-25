@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Annotations/Annotations.iml" filepath="$PROJECT_DIR$/Annotations/Annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptiones/Exceptiones.iml" filepath="$PROJECT_DIR$/Exceptiones/Exceptiones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Genéricos/Genéricos.iml" filepath="$PROJECT_DIR$/Genéricos/Genéricos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Herencia_y_Polimorfismo/Herencia_y_Polimorfismo.iml" filepath="$PROJECT_DIR$/Herencia_y_Polimorfismo/Herencia_y_Polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Collections/Java_Collections.iml" filepath="$PROJECT_DIR$/Java_Collections/Java_Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Utils/Java_Utils.iml" filepath="$PROJECT_DIR$/Java_Utils/Java_Utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_1.iml" filepath="$PROJECT_DIR$/Spring_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testing/Testing.iml" filepath="$PROJECT_DIR$/Testing/Testing.iml" />
+    </modules>
+  </component>
+</project>
