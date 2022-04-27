@@ -8,6 +8,13 @@ package Nivel1.S0107Ex1;
 
 public class Main {
     public static void main(String[] args) {
+        Empleado empleado = new Empleado("Tere", "Rojas", 10);
+        EmpleadoTeletrabajo empleadoTeletrabajo = new EmpleadoTeletrabajo("Teresa", "Rosas", 8);
+        EmpleadoLocal empleadoLocal = new EmpleadoLocal("Terry", "Gutierrez", 12);
+
+        empleado.datosEmpleado();
+        empleadoTeletrabajo.datosEmpleado();
+        empleadoLocal.datosEmpleado();
 
     }
 

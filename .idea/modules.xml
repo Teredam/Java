@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring_1/Annotations/Annotations.iml" filepath="$PROJECT_DIR$/Spring_1/Annotations/Annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_1/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Spring_1/Exceptions/Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_1/Genéricos/Genéricos.iml" filepath="$PROJECT_DIR$/Spring_1/Genéricos/Genéricos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_1/Herencia_y_Polimorfismo/src/Herencia_y_Polimorfismo.iml" filepath="$PROJECT_DIR$/Spring_1/Herencia_y_Polimorfismo/src/Herencia_y_Polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_1/Herencia_y_Polimorfismo/Herencia_y_Polimorfismo1.iml" filepath="$PROJECT_DIR$/Spring_1/Herencia_y_Polimorfismo/Herencia_y_Polimorfismo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_1/Java_Collections/Java_Collections.iml" filepath="$PROJECT_DIR$/Spring_1/Java_Collections/Java_Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_1/Java_Utils/Java_Utils.iml" filepath="$PROJECT_DIR$/Spring_1/Java_Utils/Java_Utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_1/Testing/Testing.iml" filepath="$PROJECT_DIR$/Spring_1/Testing/Testing.iml" />
+    </modules>
+  </component>
+</project>
